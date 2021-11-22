@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.2.0
       with:
         server: ftp.theinnovativedigitals.com
-        username: github@githuhautomation.theinnovativedigitals.com
+        username: github2@github2.theinnovativedigitals.com
         password: ${{ secrets.FTP_PASSWORD }}
